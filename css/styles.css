@@ -1,0 +1,17 @@
+.header {
+  text-align: center;
+}
+
+.info {
+  color: gray;
+  font-size: 20px;
+}
+
+.title {
+  color: blue;
+}
+
+.important {
+  font-style: italic;
+  color: orange;
+}
